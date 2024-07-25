@@ -13,7 +13,7 @@ Try not to worry too much about forgetting past materials after not using them f
 
 Before you press on, a note about jQuery. We occasionally get questions about why we don't include jQuery in our curriculum. jQuery was very popular in the past, but has fallen out of the limelight in recent years. One of the biggest reasons it has begun to fall out of favor is that you don't *need* it anymore. When it became popular, doing things like DOM manipulation and AJAX calls were difficult in plain JavaScript, but that is no longer the case.
 
-A quick web-search on the topic will be more useful than any explanations here, and if you still want to learn it (many older codebases still use it, and you will see it on many older Stack Overflow posts) we are confident that you can pick it up quite easily by reading the [jQuery documentation](https://jquery.com/).
+A quick web-search on the topic will be more useful than any explanations here, and if you still want to learn it (many older codebases still use it, and you will see it on many older Stack Overflow posts) we are confident that you can pick it up quite easily by reading the [jQuery documentation](https://jquery.com/). The jQuery Learning Center, found at [Learn jQuery](https://learn.jquery.com), serves as an educational resource as well, offering detailed tutorials and documentation.
 
 ### Additional resources
 
